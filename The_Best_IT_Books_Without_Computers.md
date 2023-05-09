@@ -1,55 +1,54 @@
-# IT-Books-Without-Computers
-The Best IT Books I've Ever Read (That don't involve computers)
+# The Best IT Books I've Ever Read (That Don't Involve Computers)
 
 In not particular order:
 
 ***The Signal and the Noise***  
 Nate Silver
 
-Sources of Power  
+***Sources of Power***  
 Gary Klein
 
-Nudge	
+***Nudge***  
 Richard H. Thaler and Cass R. Sunstein
 
-Influence the Science of Persuasion	
+***Influence the Science of Persuasion***  
 Robert Cialdini
 
-The Black Swan
+***The Black Swan***  
 Nassim Nicholas Taleb
 
-Getting to Yes
+***Getting to Yes***  
 Roger Fisher and William Ury
 
-The Goal
+***The Goal***  
 Eliyahu M. Goldratt
 
-Emotional Intelligence
+***Emotional Intelligence***  
 Travis Bradberry and Jean Greaves
 
-A Mind for Numbers
+***A Mind for Numbers***  
 Barbara Oakley
 
-Deep Work
+***Deep Work***  
 Cal Newport
 
-The Power of Habit
+***The Power of Habit***  
 Charles Duhigg
 
-Failure is Not an option
+***Failure is Not an option***  
 Gene Kranz
 
-Superforecaster	
+***Superforecaster***  
 Philip E. Tetlock and Dan Gardner
 
-So Good They Can't Ignore You
+***So Good They Can't Ignore You***  
 Cal Newport
 
-Macheveli for women
+***Macheveli for women***  
 Stacey Vanek Smith
 
-Making a manager
+***Making a manager***  
 Julie Zhuo
 
-**The dictators handbook**
+***The dictators handbook***  
 Bruce Bueno de Mesquita and Alastair Smith
