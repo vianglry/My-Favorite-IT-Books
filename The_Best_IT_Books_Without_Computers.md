@@ -3,7 +3,7 @@ The Best IT Books I've Ever Read (That don't involve computers)
 
 In not particular order:
 
-**The Signal and the Noise**
+***The Signal and the Noise***
 Nate Silver
 
 Sources of Power 
