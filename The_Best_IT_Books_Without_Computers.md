@@ -1,6 +1,6 @@
 # The Best IT Books I've Ever Read (That Don't Involve Computers)
 
-In not particular order:
+An ongoing list in no particular order:
 
 ***The Signal and the Noise***  
 Nate Silver
