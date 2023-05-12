@@ -8,6 +8,18 @@ Thomas A. Limoncelli, Christina J. Hogan, Strata R. Chalup
 ***Windows Internals 7th Edition: Part 2***   
 Andrea Allievi, David A. Solomon, Alex Ionescu, Mark Russinovich
 
+***Clean Code***   
+Robert Cecil Martin
+
+***The Pragmatic Programmer***  
+Dave Thomas, Andy Hunt
+
+***The DevOps Handbook***  
+Gene Kim, Patrick Debois, Jez Humble, John Willis
+
+***Site Relieability Engineering***  
+Betsy Beyer, Niall Richard Murphy, Jennifer Petoff, Chris Jones
+
 ***The Phoenix Project 2nd ed.***  
 Gene Kim, George Spafford, Kevin Behr
 
@@ -16,12 +28,3 @@ Clifford Stoll
 
 ***Countdown to Zeroday***  
 Kim Zetter
-
-***The DevOps Handbook***  
-Gene Kim, Patrick Debois, Jez Humble, John Willis
-
-***The Pragmatic Programmer***  
-Dave Thomas, Andy Hunt
-
-***Site Relieability Engineering***  
-Betsy Beyer, Niall Richard Murphy, Jennifer Petoff, Chris Jones
