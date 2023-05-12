@@ -56,5 +56,5 @@ Bruce Bueno de Mesquita, Alastair Smith
 ***The Bhagavad Gita***  
 Translated by Eknath Easwaran
 
-***Tao Te Ching***
+***Tao Te Ching***   
 Laozi
