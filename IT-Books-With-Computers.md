@@ -1,6 +1,6 @@
 # The Best IT Books I've Ever Read (These actually have computers in them)
 
-#### *An ongoing list in no particular order:*
+#### An ongoing list in no particular order:
 
 ***The Practice of System and Network Engineering 2nd ed.***  
 Thomas A. Limoncelli, Christina J. Hogan, Strata R. Chalup  
