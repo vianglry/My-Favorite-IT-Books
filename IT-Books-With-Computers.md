@@ -3,15 +3,10 @@
 ### *An ongoing list in no particular order:*
 
 ***The Practice of System and Network Engineering 2nd ed.***  
-Thomas A. Limoncelli  
-Christina J. Hogan  
-Strata R. Chalup  
+Thomas A. Limoncelli, Christina J. Hogan, Strata R. Chalup  
 
 **Windows Internals 7th Edition: Part 2**
-Andrea Allievi
-David A. Solomon
-Alex Ionescu
-Mark Russinovich
+Andrea Allievi, David A. Solomon, Alex Ionescu, Mark Russinovich
 
 ***The Phoenix Project 2nd ed.***  
 Gene Kim, George Spafford, and Kevin Behr
