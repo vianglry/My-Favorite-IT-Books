@@ -5,7 +5,7 @@
 ***The Practice of System and Network Engineering 2nd ed.***  
 Thomas A. Limoncelli, Christina J. Hogan, Strata R. Chalup  
 
-**Windows Internals 7th Edition: Part 2**   
+***Windows Internals 7th Edition: Part 2***   
 Andrea Allievi, David A. Solomon, Alex Ionescu, Mark Russinovich
 
 ***The Phoenix Project 2nd ed.***  
