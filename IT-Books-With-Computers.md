@@ -9,7 +9,7 @@ Thomas A. Limoncelli, Christina J. Hogan, Strata R. Chalup
 Andrea Allievi, David A. Solomon, Alex Ionescu, Mark Russinovich
 
 ***The Phoenix Project 2nd ed.***  
-Gene Kim, George Spafford, and Kevin Behr
+Gene Kim, George Spafford, Kevin Behr
 
 ***The Cuckoo’s Egg***  
 Clifford Stoll
