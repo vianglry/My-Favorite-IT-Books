@@ -17,7 +17,7 @@ Clifford Stoll
 ***Countdown to Zeroday***  
 Kim Zetter
 
-***The dev ops handbook***  
+***The DevOps Handbook***  
 Gene Kim, Patrick Debois, Jez Humble, John Willis
 
 ***The Pragmatic Programmer***  
