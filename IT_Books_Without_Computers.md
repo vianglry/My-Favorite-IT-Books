@@ -9,7 +9,7 @@ Nate Silver
 Gary Klein
 
 ***Nudge***  
-Richard H. Thaler and Cass R. Sunstein
+Richard H. Thaler, Cass R. Sunstein
 
 ***Influence the Science of Persuasion***  
 Robert Cialdini
@@ -18,13 +18,13 @@ Robert Cialdini
 Nassim Nicholas Taleb
 
 ***Getting to Yes***  
-Roger Fisher and William Ury
+Roger Fisher, William Ury
 
 ***The Goal***  
 Eliyahu M. Goldratt
 
 ***Emotional Intelligence***  
-Travis Bradberry and Jean Greaves
+Travis Bradberry, Jean Greaves
 
 ***A Mind for Numbers***  
 Barbara Oakley
@@ -35,20 +35,26 @@ Cal Newport
 ***The Power of Habit***  
 Charles Duhigg
 
-***Failure is Not an option***  
+***Failure is Not an Option***  
 Gene Kranz
 
 ***Superforecaster***  
-Philip E. Tetlock and Dan Gardner
+Philip E. Tetlock, Dan Gardner
 
 ***So Good They Can't Ignore You***  
 Cal Newport
 
-***Macheveli for women***  
+***Macheveli for Women***  
 Stacey Vanek Smith
 
-***Making a manager***  
+***Making a Manager***  
 Julie Zhuo
 
-***The dictators handbook***  
-Bruce Bueno de Mesquita and Alastair Smith
+***The Dictators Handbook***  
+Bruce Bueno de Mesquita, Alastair Smith
+
+***The Bhagavad Gita***  
+Translated by Eknath Easwaran
+
+***Tao Te Ching***
+Laozi
